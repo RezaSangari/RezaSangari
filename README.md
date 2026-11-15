@@ -24,6 +24,8 @@ Solving Nonlinear Partial Differential Equations Using the Hybrid Moth-Flame and
 The hybrid optimizer outperformed standalone MFO by 62% and BOA by 69% in Burgers' equation RMSE. Wilcoxon tests: p = 0.003 versus MFO and p = 0.001 versus BOA.
 Mean RMSE (Burgers' equation, 30 runs): Hybrid MFO–BOA 2.8e-4; standalone MFO 7.3e-4; standalone BOA 9.1e-4.
 
+**Reproducibility note:** These values are reported from the M.Sc. thesis and have not been reproduced by the current public implementation. Its Burgers least-squares approximation floor is 6.801e-02 with the default 5x5 basis, approximately 243 times the reported hybrid RMSE. Even the largest tested 144-coefficient basis has a floor of 1.52e-02. See the [repository's numerical limitation and test documentation](https://github.com/Reza-S80/MFO-BOA-PDE-Solver/blob/main/tests/test_solver.py).
+
 **Code:** [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
 
 ### 2. PINNs for Stiff Reaction–Diffusion Systems
