@@ -66,6 +66,12 @@ Member of IAENG, Societies of Artificial Intelligence and Computer Science.
 
 **Member ID:** 588946.
 
+## Contact
+
+- **Email:** r.sangari@std.du.ac.ir
+
+For research collaborations, research assistant opportunities, and PhD inquiries, please contact me through my professional email or LinkedIn.
+
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
