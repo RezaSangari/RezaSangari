@@ -42,7 +42,7 @@ Code: repository in preparation — PINN implementation to follow.
 
 **Best run so far:** 35.31% TEST Top-1 (paper record: 41.09%). The paper's model was fine-tuned from a pretrained model, while this run trains from random initialization.
 
-**Dataset:** [LRW-Persian on Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
+**Dataset link:** [LRW-Persian on Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
 
 ### 4. AI and Nanotechnology
 
@@ -56,15 +56,13 @@ Generative AI and Political Cognition of Iranian Users: Political Trust, Critica
 
 Manuscript in preparation.
 
-Preprint/code: to be added when available.
-
 ## GitHub Projects
 
 - [MFO-BOA-PDE-Solver](https://github.com/RezaSangari/MFO-BOA-PDE-Solver)
 
 ## Professional Membership
 
-Member of IAENG, Societies of Artificial Intelligence and Computer Science.
+Member of IAENG — Societies of Artificial Intelligence and Computer Science.
 
 **Member ID:** 588946.
 
